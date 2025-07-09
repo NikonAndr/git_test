@@ -1,3 +1,3 @@
 # My test repo
 
-Hey ;)
+Hey there, my friend ;)
